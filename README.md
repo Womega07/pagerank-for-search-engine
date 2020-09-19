@@ -1,15 +1,7 @@
-# puzzle-game
-Sudoku puzzle
+# Pagerank for Search Engine
 
-# Problem Statement
-Write a sudoku puzzle game solving program using the C++ programming language.
-
-# Project Requirements
-a. Write a program to solve a Sudoku puzzle by filling the empty cells.
-
-b. Empty cells are indicated by the character '.'
-
-c. For given puzzle if there're a solution possible then return whole solved puzzle after filling the empty cells and in case of no solution possible return with empty cells.
-
-d. You may assume that there will be only one unique solution.
+# Project Deatils
+PageRank works by counting the number and quality of links to a page to determine a rough estimate of how important the website is. The underlying assumption is that more important websites are likely to receive more links from other websites.
+Construct a Pagerank Model to maintain information about the connectivity of web-pages through a web matrix.
+Optimized space by integrating the space Matrix(Implemented with Circular Multi-Linked List) to the model.
 
