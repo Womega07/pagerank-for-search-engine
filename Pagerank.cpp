@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : Sudoku-puzzle.cpp
+// Name        : Pagerank.cpp
 // Author      : Bhawana
 // Version     :
 // Copyright   : Your copyright notice
